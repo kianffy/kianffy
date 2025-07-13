@@ -6,4 +6,4 @@ i like to play and draw :3
 
 ![](https://racgraphics.carrd.co/assets/images/gallery01/f433465e.gif?v=a6e86449)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=racsiniy&color=6ca5f0&style=for-the-badge&label=VIEWS&base=2086)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=racsiniy&color=6ca5f0&style=for-the-badge&label=profile-views&base=2086)
