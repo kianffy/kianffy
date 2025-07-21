@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <div>rac or ian 　 sheノhe</div>
+  <div>rac or ian 　 heノshe</div>
   <div>i like to play and draw :3</div>
 </p>
 
