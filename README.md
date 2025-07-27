@@ -13,7 +13,7 @@
   <img src="https://64.media.tumblr.com/c0b2b207e34db4dae23f132ef9c41b0a/89749997f66a3a49-6b/s100x200/134c87e92df8b8a1c98c8135aadbc87cdb3c51be.gifv" alt="gif2" style="max-width: 100%;">
   <img src="https://64.media.tumblr.com/1821b6d24b7ba62b0f48081c9fe72485/89749997f66a3a49-e0/s100x200/0549263c445e656ae49b342a96c890f14ee18e76.gifv" alt="gif3" style="max-width: 100%;">
 </div>
-  <img src="https://komarev.com/ghpvc/?username=racsiniy&color=6ca5f0&style=pixel&label=profile-views&base=2086" alt="profile views" style="max-width:100%;">
+  <img src="https://komarev.com/ghpvc/?username=racsiniy&color=6ca5f0&style=flat-square&label=profile-views&base=2086" alt="profile views" style="max-width:100%;">
 
   </div>
 </article>
