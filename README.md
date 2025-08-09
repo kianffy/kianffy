@@ -1,5 +1,7 @@
 <div align="center" dir="auto">
-  <div>rac or ian　heノshe　15</div>
+  <div><b>rac or ian</b> 　　 he/she</div>
+  <div>eng/arm　<img src="https://64.media.tumblr.com/fdf89499c48ac45deb2adee87e0a2cec/2a50e0b64903080c-64/s75x75_c1/440f2cce69b1b86c0ecd880e17de7435025d9f5c.png" alt="icon">
+　 　<b>15</b></div>
   <div>i like to play and draw :3</div>
 </p>
 
