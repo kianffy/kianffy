@@ -1,14 +1,14 @@
 <div align="center" dir="auto">
   <div><b>rac or ian</b> 　　 he/she</div>
   <div>eng/arm　<img src="https://64.media.tumblr.com/fdf89499c48ac45deb2adee87e0a2cec/2a50e0b64903080c-64/s75x75_c1/440f2cce69b1b86c0ecd880e17de7435025d9f5c.png" alt="icon">
-　 　<b>15</b></div>
+　 　<b>15</b></div>
   <div>i like to play and draw :3</div>
 </p>
 
 <p dir="auto">ʚɞ</p>
 <p dir="auto"><a target="_blank" href="https://x.com/Official_ALNST"><img src="https://racgraphics.carrd.co/assets/images/image02.png?v=d54cbec6" alt="unnamed" style="max-width: 100%;"></a></p>
 <p dir="auto">ʚɞ</p>
-<p dir="auto"><a href="https://kianffy.atabook.org" rel="https://kianffy.atabook.org">atabook</a> 　 <a href="https://kianffy.straw.page" rel="https://kianffy.straw.page">strawpage</a> 　 <a href="https://artfight.net/~racsweather" rel="https://artfight.net/~racsweather">artfight</a> 　 <a href="https://x.com/kianffy" rel="https://x.com/kianffy">twitter</a></p>
+<p dir="auto"><a href="https://kianffy.atabook.org" rel="https://kianffy.atabook.org">atabook</a> 　 <a href="https://kianffy.straw.page" rel="https://kianffy.straw.page">strawpage</a> 　 <a href="https://en.pronouns.page/@kianffy" rel="https://en.pronouns.page/@kianffy">pronouns</a> 　 <a href="https://x.com/kianffy" rel="https://x.com/kianffy">twitter</a></p>
   
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <img src="https://64.media.tumblr.com/ee07b8292723d410560d5997a0376c89/89749997f66a3a49-3c/s250x400/15025fcfd3f262584d26108aa1b97e9dbe9096c3.gifv" alt="gif1" style="max-width: 100%;">
