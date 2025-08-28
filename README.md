@@ -1,7 +1,7 @@
 <div align="center" dir="auto">
-  <div><b>ian</b> <sub>or</sub>	<ins>rac</ins>　he/she<a href="https://en.pronouns.page/@kianffy" rel="https://en.pronouns.page/@kianffy">++</a>　15</div>
-  <div>ENG/ARM    <img src="https://64.media.tumblr.com/fdf89499c48ac45deb2adee87e0a2cec/2a50e0b64903080c-64/s75x75_c1/440f2cce69b1b86c0ecd880e17de7435025d9f5c.png" alt="bisexual">    <ins>PST<ins> time</div>
-  <div><img src="https://64.media.tumblr.com/90b4f5de9f981cd962ecc2847a725668/102823b385953a10-d7/s75x75_c1/17c200ab945f81c66a8c9f3b7583cf63fcc1a34a.gifv" alt="cute pink scissors">   i like to play and draw</div>
+  <div><b>ian</b> <sub>or</sub>	<ins>rac</ins>　he/she<a href="https://en.pronouns.page/@kianffy" rel="https://en.pronouns.page/@kianffy">++</a>   15</div>
+  <div>ENG/ARM    <img src="https://64.media.tumblr.com/fdf89499c48ac45deb2adee87e0a2cec/2a50e0b64903080c-64/s75x75_c1/440f2cce69b1b86c0ecd880e17de7435025d9f5c.png" alt="bisexual">   𝜗𝜚 </div>
+  <div><img src="https://64.media.tumblr.com/90b4f5de9f981cd962ecc2847a725668/102823b385953a10-d7/s75x75_c1/17c200ab945f81c66a8c9f3b7583cf63fcc1a34a.gifv" alt="cute pink scissors">   <a href="https://github.com/rnadyjade" rel="https://github.com/rnadyjade">randal</a> likes to beat me</div>
 </p>
 
 <p dir="auto"><a target="_blank" href="https://x.com/ALNST_t/"><img src="https://ianstuff.carrd.co/assets/images/image02.png?v=322fe4e7" alt="ART BY @ALNST_t ON TWITTER" style="max-width: 100%;"></a></p>
