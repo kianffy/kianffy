@@ -16,5 +16,7 @@
   </div>
 </article>
   </div>
-
-  <img src="https://komarev.com/ghpvc/?username=racsiniy&color=6ca5f0&style=pixel&label=profile-views&base=2086" alt="profile views" style="max-width:100%;">
+  
+<div align="center">
+  <div><img src="https://komarev.com/ghpvc/?username=kianffy&color=c93888&style=flat&label=🦴+pawprints+on+my+page" alt="profile views" style="max-width:100%;"><div></div>
+</div>
