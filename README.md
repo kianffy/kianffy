@@ -18,5 +18,5 @@
   </div>
   
 <div align="center">
-  <div><img src="https://komarev.com/ghpvc/?username=kianffy&color=c93888&style=flat&label=🦴+pawprints+on+my+page" alt="profile views" style="max-width:100%;"><div></div>
+  <div><img src="https://komarev.com/ghpvc/?username=kianffy&color=c93888&style=flat&label=🌷+flowers+picked" alt="profile views" style="max-width:100%;"><div></div>
 </div>
