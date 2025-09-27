@@ -2,7 +2,7 @@
   <div><img src="https://komarev.com/ghpvc/?username=kianffy&color=c93888&style=flat&label=🌷+flowers+picked" alt="profile views" style="max-width:100%;"><div></div>
 </div>
 <div align="center" dir="auto">
-  <div><b>ian</b> <sub>or</sub>	<ins>rac</ins>　he/she</a>   15</div>
+  <div><b>rac</b> <sub>or</sub>	<ins>ian</ins>　he/she</a>   15</div>
   <div>ENG/ARM  　  <img src="https://64.media.tumblr.com/fdf89499c48ac45deb2adee87e0a2cec/2a50e0b64903080c-64/s75x75_c1/440f2cce69b1b86c0ecd880e17de7435025d9f5c.png" alt="bisexual">　𝜗𝜚 </div>
  <div><a href="https://github.com/rnadyjade" rel="https://github.com/rnadyjade">randal</a> likes to beat me</div>
 </p>
