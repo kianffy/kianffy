@@ -2,8 +2,6 @@
   <div><img src="https://komarev.com/ghpvc/?username=kianffy&color=c93888&style=flat&label=🌷+flowers+picked" alt="profile views" style="max-width:100%;"><div></div>
 </div>
 <div align="center" dir="auto">
-  <div><b>rac</b> <sub>or</sub>	<ins>ian</ins>　he/she</a>   15</div>
-  <div>ENG/ARM  　  <img src="https://64.media.tumblr.com/fdf89499c48ac45deb2adee87e0a2cec/2a50e0b64903080c-64/s75x75_c1/440f2cce69b1b86c0ecd880e17de7435025d9f5c.png" alt="bisexual">　𝜗𝜚 </div>
 </p>
 
 <p dir="auto"><a target="_blank" href="github.com/kianffy"><img src="https://ianstuff.carrd.co/assets/images/image02.png?v=6f26d97a" alt="OFFICIAL ART" style="max-width: 100%;"></a></p>
