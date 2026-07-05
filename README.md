@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kianffy&color=c72e2e&style=flat&label=🍍" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=kianffy&color=c72e2e&style=flat&label=bears+with+guns" alt="profile views">
 
 <p>
   <a href="https://github.com/kianffy" target="_blank">
