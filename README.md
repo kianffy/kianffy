@@ -11,7 +11,7 @@
 <p>
   <a href="https://lvan.atabook.org">atabook</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kianffy.straw.page">strawpage</a>
+  <a href="https://rentry.co/zomtord">rentry</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://artfight.net/~kianffy">artfight</a>
 </p>
